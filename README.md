@@ -1,6 +1,6 @@
 ---
-Integrantes  
   markdown: 
+  INTEGRANTES 
     ANDREA VALIENTE
     SEBASTIAN OCHOA 
     JULIANA HERNANDEZ 

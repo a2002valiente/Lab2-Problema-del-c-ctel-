@@ -1,9 +1,12 @@
 ---
+---
+title: "README"
+author: "Sebastian Ochoa, Andrea Valiente,Juliana Hernandez"
+date: "2024-09-12"
+editor_options: 
   markdown: 
-  INTEGRANTES 
-    ANDREA VALIENTE
-    SEBASTIAN OCHOA 
-    JULIANA HERNANDEZ 
+    wrap: 60
+---
 ---
 
 ------------------------------------------------------------------------

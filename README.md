@@ -1,12 +1,12 @@
 ---
----
+
 title: "README"
 author: "Sebastian Ochoa, Andrea Valiente,Juliana Hernandez"
 date: "2024-09-12"
 editor_options: 
   markdown: 
     wrap: 60
----
+
 ---
 
 ------------------------------------------------------------------------
@@ -14,12 +14,11 @@ editor_options:
 # ***LABORATORIO 2 : Problema del cóctel***
 
 ------------------------------------------------------------------------
-
-Procesamiento digital de señales
-
-Carolina Corredor BMED B\
-UMNG
-
+```
+                                    Procesamiento digital de señales
+                                    Carolina Corredor BMED B
+                                    UMNG
+```
 ------------------------------------------------------------------------
 
 > **OBJETIVO** : Aplicar el análisis en frecuencia de señales de voz en

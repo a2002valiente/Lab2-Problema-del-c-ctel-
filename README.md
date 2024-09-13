@@ -1,7 +1,9 @@
 ---
-editor_options: 
+Integrantes  
   markdown: 
-    wrap: 72
+    ANDREA VALIENTE
+    SEBASTIAN OCHOA 
+    JULIANA HERNANDEZ 
 ---
 
 ------------------------------------------------------------------------

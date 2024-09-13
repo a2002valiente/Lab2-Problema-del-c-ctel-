@@ -5,7 +5,7 @@ author: "Sebastian Ochoa, Andrea Valiente,Juliana Hernandez"
 date: "2024-09-12"
 editor_options: 
   markdown: 
-    wrap: 60
+    wrap: 40
 
 ---
 
